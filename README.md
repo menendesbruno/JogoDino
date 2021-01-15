@@ -1,0 +1,2 @@
+Este projeto será uma cópia aproximada do jogo de dinossauro que aparece quando estamos sem internet no Google Chrome.
+Nele apliquei as técnicas aprendidas no curso de JavaScript da Digital Innovation One.
